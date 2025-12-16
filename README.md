@@ -35,3 +35,12 @@ My_Project/
 ├── freshness_model.h5     # Trained Deep Learning model
 ├── requirements.txt       # List of dependencies
 └── README.md              # Project documentation
+
+### **Final Step for You:**
+To make it easy to install everything in the future, create a file named `requirements.txt` in your folder and paste this inside:
+
+```text
+streamlit
+tensorflow
+pillow
+numpy
