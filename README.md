@@ -8,6 +8,10 @@ This application solves the problem of food wastage in cold chains. It uses:
 2.  **IoT Simulation (Streamlit):** To simulate temperature and humidity sensors using interactive sliders.
 3.  **Smart Logic:** Combines the visual analysis with storage conditions to generate actionable alerts (e.g., "Fruit is fresh, but temperature is too high!").
 
+## 🔗 Data & Model Source
+The model was trained using a dataset from Kaggle. You can view the training notebook and dataset here:
+* **Kaggle Notebook/Dataset:** [Click Here to View on Kaggle](https://www.kaggle.com/datasets/abdulrafeyyashir/fresh-vs-rotten-fruit-images)
+  
 ## ✨ Features
 * **Image Classification:** Upload an image of an apple or banana to detect its quality.
 * **Real-time IoT Simulation:** Adjust storage parameters (Temp/Humidity) to test different scenarios.
@@ -22,4 +26,3 @@ This application solves the problem of food wastage in cold chains. It uses:
 * **Frontend:** Streamlit
 * **AI/ML:** TensorFlow, Keras
 * **Image Processing:** Pillow (PIL), NumPy
-
