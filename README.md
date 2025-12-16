@@ -26,3 +26,12 @@ The model was trained using a dataset from Kaggle. You can view the training not
 * **Frontend:** Streamlit
 * **AI/ML:** TensorFlow, Keras
 * **Image Processing:** Pillow (PIL), NumPy
+
+## 📂 Project Structure
+```text
+My_Project/
+├── env/                   # Virtual Environment folder
+├── app.py                 # Main application code
+├── freshness_model.h5     # Trained Deep Learning model
+├── requirements.txt       # List of dependencies
+└── README.md              # Project documentation
